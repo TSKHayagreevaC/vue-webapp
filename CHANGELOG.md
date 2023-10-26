@@ -9,6 +9,8 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 - Added Component for 'Declerative Rendering'.
 - Added Component for 'Event Listeneres'.
 - Added Component for 'Attribute Binding'.
+- Added Components Form, Conditional rendering, List rendering.
+
 
 ## Changed
 

@@ -1,8 +1,8 @@
 <script setup>
-import EventListeners from './components/EventListeners.vue'
+import ListRendering from './components/ListRendering.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <EventListeners />
+  <ListRendering />
 </template>
