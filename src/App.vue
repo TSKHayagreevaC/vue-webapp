@@ -1,8 +1,8 @@
 <script setup>
-import FormBinding from './components/FormBinding.vue'
+import ConditionalRendering from './components/ConditionalRendering.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <FormBinding />
+  <ConditionalRendering />
 </template>
