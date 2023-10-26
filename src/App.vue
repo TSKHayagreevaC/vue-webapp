@@ -1,8 +1,8 @@
 <script setup>
-import EventListeners from './components/EventListeners.vue'
+import FormBinding from './components/FormBinding.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <EventListeners />
+  <FormBinding />
 </template>
