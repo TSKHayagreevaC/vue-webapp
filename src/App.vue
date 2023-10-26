@@ -1,8 +1,8 @@
 <script setup>
-import ConditionalRendering from './components/ConditionalRendering.vue'
+import ListRendering from './components/ListRendering.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <ConditionalRendering />
+  <ListRendering />
 </template>
