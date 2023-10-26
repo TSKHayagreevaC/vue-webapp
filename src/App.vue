@@ -1,8 +1,8 @@
 <script setup>
-import AttributeBinding from './components/AttributeBinding.vue'
+import EventListeners from './components/EventListeners.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <AttributeBinding />
+  <EventListeners />
 </template>
