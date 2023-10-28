@@ -1,8 +1,8 @@
 <script setup>
-import ListRendering from './components/ListRendering.vue'
+import Completion from './components/Completion.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <ListRendering />
+  <Completion />
 </template>
