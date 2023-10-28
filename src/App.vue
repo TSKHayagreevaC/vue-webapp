@@ -1,8 +1,8 @@
 <script setup>
-import LifecycleAndTemplateRef from './components/LifecycleAndTemplateRef.vue'
+import Watchers from './components/Watchers.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <LifecycleAndTemplateRef />
+  <Watchers />
 </template>
