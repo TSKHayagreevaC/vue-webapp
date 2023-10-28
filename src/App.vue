@@ -1,8 +1,8 @@
 <script setup>
-import ListRendering from './components/ListRendering.vue'
+import ComputedProperty from './components/ComputedProperty.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <ListRendering />
+  <ComputedProperty />
 </template>
