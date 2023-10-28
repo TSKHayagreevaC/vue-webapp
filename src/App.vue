@@ -1,8 +1,8 @@
 <script setup>
-import ParentComponentWithEmits from './components/ParentComponentWithEmits.vue'
+import ParentComponentWithSlot from './components/ParentComponentWithSlot.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <ParentComponentWithEmits />
+  <ParentComponentWithSlot />
 </template>
