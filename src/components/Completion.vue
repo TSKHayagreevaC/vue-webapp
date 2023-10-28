@@ -11,7 +11,9 @@ showConfetti()
 </script>
 
 <template>
-  <h1 @click="showConfetti">🎉 Congratulations!</h1>
+  <div>
+    <h1 @click="showConfetti">🎉 Congratulations!</h1>
+  </div>
 </template>
 
 <style>
