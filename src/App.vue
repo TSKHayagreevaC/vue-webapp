@@ -1,8 +1,8 @@
 <script setup>
-import ParentComponentWithSlot from './components/ParentComponentWithSlot.vue'
+import Completion from './components/Completion.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <ParentComponentWithSlot />
+  <Completion />
 </template>
