@@ -11,6 +11,7 @@ function onInput(e) {
 
 <template>
     <div>
+        <h3>Form Binding</h3>
         <input :value="text" @input="onInput" placeHolder="Enter Text Here">
         <p>{{text}}</p>
     </div>

@@ -21,9 +21,9 @@ import { ref, reactive } from 'vue'
 
 <template>
     <div>
-        <h1>Declerative Rendering</h1>
-        <h2>Words : {{message.split('').reverse().join("")}}</h2>
-        <h2>Reverse : {{message.split('').reverse().join("")}}</h2>
+        <h3>Declerative Rendering</h3>
+        <h6>Words : {{message.split('').reverse().join("")}}</h6>
+        <h6>Reverse : {{message.split('').reverse().join("")}}</h6>
         <p>Words Count : {{counter.count}}</p>
     </div>
 </template>

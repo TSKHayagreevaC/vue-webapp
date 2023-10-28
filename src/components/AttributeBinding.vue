@@ -7,7 +7,7 @@ const descriptionClass = ref('description')
 
 <template>
   <div>
-    <h1 :class="titleClass">Title</h1> 
+    <h3 :class="titleClass">Title</h3> 
     <p :class="descriptionClass">Description...!</p>
   </div>
 </template>

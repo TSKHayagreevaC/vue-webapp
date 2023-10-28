@@ -10,7 +10,7 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 - Added Component for 'Event Listeneres'.
 - Added Component for 'Attribute Binding'.
 - Added Components Form, Conditional rendering, List rendering.
-
+- Added all components to the home page in grid.
 
 ## Changed
 

@@ -4,5 +4,5 @@
 </script>
 
 <template>
-    <h1>Child Component With Emits</h1>
+    <h3>Child Component With Emits</h3>
 </template>

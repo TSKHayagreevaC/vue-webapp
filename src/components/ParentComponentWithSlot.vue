@@ -7,7 +7,7 @@
 
 <template>
     <div>
-        <h1>Parent Component With Slot</h1>
+        <h3>Parent Component With Slot</h3>
         <ChildComponentWithSlot>Message :: {{msg}}</ChildComponentWithSlot>
     </div>
 </template>

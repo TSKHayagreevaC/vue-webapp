@@ -7,6 +7,6 @@
 </script>
 
 <template>
-    <h1>Child Component With Props</h1>
+    <h3>Child Component With Props</h3>
     <p>{{ msg || 'No Props Passed Yet' }}</p>
 </template>

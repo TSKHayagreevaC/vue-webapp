@@ -10,6 +10,7 @@
 
 <template>
     <div>
+        <h3>Life Cycle & Template Ref</h3>
         <p ref="paraElementRef">Hello</p>
     </div>
 </template>

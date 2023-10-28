@@ -10,7 +10,7 @@ function increment() {
 
 <template>
   <div>
-    <h1>Event Listener: @click</h1>
+    <h3>Event Listener</h3>
     <button v-on:click="increment">count is: {{ count }}</button>
   </div>
 </template>

@@ -6,7 +6,7 @@
 
 <template>
     <div>
-        <h1>Parent Component With Props</h1>
+        <h3>Parent Component With Props</h3>
         <ChildComponentWithProps :msg="greeting" />
     </div>
 </template>
