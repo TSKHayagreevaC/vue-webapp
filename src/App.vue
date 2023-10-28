@@ -1,8 +1,8 @@
 <script setup>
-import Watchers from './components/Watchers.vue'
+import ParentComponent from './components/ParentComponent.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <Watchers />
+  <ParentComponent />
 </template>
