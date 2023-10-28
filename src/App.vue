@@ -18,7 +18,13 @@
 <template>
 
   <div>
-    <h1>Hello World..!</h1>
+    <h3>Vue.js</h3>
+    <h6>The Progressive JavaScript Framework</h6>
+    <p>An approachable, performant and versatile framework for building web user interfaces.</p>
+  </div>
+
+  <div>
+    <h3>Hello World..!</h3>
   </div>
 
   <DeclerativeRendering />
@@ -55,8 +61,8 @@
 div {
   border: 1px solid grey;
   border-radius: 5px;
-  margin: 10px;
-  padding: 20px;
+  margin: 0.6rem;
+  padding: 1rem;
   overflow: auto;
 }
 </style>

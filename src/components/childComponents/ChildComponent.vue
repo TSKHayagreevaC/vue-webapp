@@ -1,5 +1,3 @@
 <template>
-    <div>
-        <h1>Child Component</h1>
-    </div>
+    <h3>Child Component</h3>
 </template>

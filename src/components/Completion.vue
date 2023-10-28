@@ -12,7 +12,8 @@ showConfetti()
 
 <template>
   <div>
-    <h1 @click="showConfetti">🎉 Congratulations!</h1>
+    <h3>🎉 Congratulations!</h3>
+    <button @click="showConfetti">Celebrate..!</button>
   </div>
 </template>
 

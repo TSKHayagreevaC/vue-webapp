@@ -6,7 +6,7 @@
 
 <template>
     <div>
-        <h1>Parent Component With Emits</h1>
+        <h3>Parent Component With Emits</h3>
         <ChildComponentWithEmits @response="(msg) => childMsg = msg" />
         <p>{{childMsg}}</p>
     </div>

@@ -4,7 +4,7 @@ import ChildComponent from './childComponents/ChildComponent.vue';
 
 <template>
     <div>
-        <h1>Parent Component</h1>
+        <h3>Parent Component</h3>
         <ChildComponent />
     </div>
 </template>

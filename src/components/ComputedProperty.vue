@@ -32,6 +32,7 @@ const filteredTodos = computed(() => {
 
 <template>
     <div>
+        <h3>Computed Property</h3>
         <form @submit.prevent="addTodo">
             <input v-model="newTodo" >
             <button>Add Todo</button>

@@ -22,7 +22,7 @@ function removeTodo(todo) {
 
 <template>
     <div>
-        <h1>List Rendering</h1>
+        <h3>List Rendering</h3>
         <form @submit.prevent="addTodo">
             <input v-model="newTodo" >
             <button>Add Todo</button>

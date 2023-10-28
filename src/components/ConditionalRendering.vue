@@ -8,8 +8,8 @@
 
 <template>
     <div>
+        <h3 v-if="awesome">Awesome..!</h3>
+        <h3 v-else="awesome">Oh No 😢</h3>
         <button @click="toggleText">Toggle Text</button>
-        <h1 v-if="awesome">Awesome..!</h1>
-        <h1 v-else="awesome">Oh no 😢</h1>
     </div>
 </template>
