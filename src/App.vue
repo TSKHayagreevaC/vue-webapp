@@ -1,8 +1,8 @@
 <script setup>
-import ComputedProperty from './components/ComputedProperty.vue'
+import LifecycleAndTemplateRef from './components/LifecycleAndTemplateRef.vue'
 </script>
 
 <template>
   <h1>HelloWorld</h1>
-  <ComputedProperty />
+  <LifecycleAndTemplateRef />
 </template>
